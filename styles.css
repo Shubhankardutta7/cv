@@ -1,0 +1,27 @@
+body {
+    background-color: #DEEDF0;
+}
+
+hr {
+    color: #194350;
+    background-color: white;
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 3px;
+}
+
+h1 {
+    color: #194350;
+}
+
+h3 {
+    color: #970747;
+}
+
+h2 {
+    color: #194350;
+}
+
+.car {
+    color: red;
+}
